@@ -1,13 +1,11 @@
 # Project Overview
 
 **!!! The architecture below is set up on virtual servers and ready to run. !!!**  
-All virtual machines have their own download links available in the `README.md` file within their respective folders, and all commands to be executed after starting the virtual machines are also included.
+All virtual machines have their own download links available in the `README.md` file within their respective folders
 
 **Important note: This Oracle lab works in integration with the PostgreSQL lab. Please review the PostgreSQL lab first before this one.**
 
-**Please read the `README.md` file in each folder after starting the virtual machines.**  
-
-**The entire structure below is designed to be suitable for HA/DR solutions on virtual machines. While doing these installations, I used total of 5 virtual machines in this lab but A total of 21 virtual machines were used with Postgreslab. The setup includes the following technologies. All server installations were performed on RedHat and Ubuntu**
+**All server installations were performed on RedHat and Ubuntu**
 
 - Oracle Rac  
 - Oracle Dataguard  
@@ -23,13 +21,15 @@ All virtual machines have their own download links available in the `README.md` 
 
 This Hands-on lab will provide you with numerous opportunities for testing and learning. You can perform tasks such as Data Guard snapshot, switchover and filtering rows to update with GoldenGate.
 
+**With ProxySeer, you can capture all queries and login information executed on all PostgreSQL and Oracle databases at the operating system level.**
+
 ## Project Architecture
 
 ![Project Architecture](https://github.com/ProxySeer/OracleLab/blob/main/Project-Architecture/Project-Architecture.gif)
 
-## Starting Up the Servers
+## How to capture query and login information with ProxySeer.
 
-[![Watch the video](https://i.hizliresim.com/2o2po04.PNG)](https://www.youtube.com/watch?v=A_PDvBk6i7Y)
+[![Watch the video](https://hizliresim.com/qsm3qw7)](https://www.youtube.com/watch?v=A_PDvBk6i7Y)
 
 # Author
 
