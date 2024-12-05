@@ -17,9 +17,9 @@ All virtual machines have their own download links available in the `README.md` 
 - ElasticSearch
 - Kibana
 
-**The total size is around 500 GB. Each server has the same configuration, requiring a minimum of 20 GB RAM. 
+**The total size is around 500 GB. Each server has the same configuration, requiring a minimum of 20 GB RAM.**
 
-This Hands-on lab will provide you with numerous opportunities for testing and learning. You can perform tasks such as Data Guard snapshot, switchover and filtering rows to update with GoldenGate.
+**This Hands-on lab will provide you with numerous opportunities for testing and learning. You can perform tasks such as Data Guard snapshot, switchover and filtering rows to update with GoldenGate.**
 
 **With ProxySeer, you can capture all queries and login information executed on all PostgreSQL and Oracle databases at the operating system level.**
 
@@ -29,7 +29,7 @@ This Hands-on lab will provide you with numerous opportunities for testing and l
 
 ## How to capture query and login information with ProxySeer.
 
-[![Watch the video](https://hizliresim.com/qsm3qw7)](https://www.youtube.com/watch?v=A_PDvBk6i7Y)
+[![Watch the video](https://i.hizliresim.com/qsm3qw7.PNG)](https://www.youtube.com/watch?v=A_PDvBk6i7Y)
 
 # Author
 
