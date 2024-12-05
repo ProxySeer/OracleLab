@@ -21,7 +21,7 @@ All virtual machines have their own download links available in the `README.md` 
 
 **This Hands-on lab will provide you with numerous opportunities for testing and learning. You can perform tasks such as Data Guard snapshot, switchover and filtering rows to update with GoldenGate.**
 
-**With ProxySeer, you can capture all queries and login information executed on all PostgreSQL and Oracle databases at the operating system level.**
+**With ProxySeer, you can capture all queries and login information executed on all PostgreSQL and Oracle databases at the operating system level, and also integrate with Elasticsearch.**
 
 ## Project Architecture
 
@@ -29,7 +29,15 @@ All virtual machines have their own download links available in the `README.md` 
 
 ## How to capture query and login information with ProxySeer.
 
-[![Watch the video](https://i.hizliresim.com/qsm3qw7.PNG)](https://www.youtube.com/watch?v=A_PDvBk6i7Y)
+[![Watch the video](https://i.hizliresim.com/qsm3qw7.PNG)](https://www.youtube.com/watch?v=oH-vh9WcT7Q)
+
+## Oracle Foreign Data Wrapper Oracle - PostgreSql 
+
+[![Watch the video](https://i.hizliresim.com/qsm3qw7.PNG)](https://www.youtube.com/watch?v=A-lmiHTO54I)
+
+## Oracle Foreign Data Wrapper Oracle - PostgreSql 
+
+[![Watch the video](https://i.hizliresim.com/bfz55no.PNG)](https://www.youtube.com/watch?v=6s2PvWRNal0&t=1s)
 
 # Author
 
