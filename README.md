@@ -25,7 +25,7 @@ This Hands-on lab will provide you with numerous opportunities for testing and l
 
 ## Project Architecture
 
-![Project Architecture](https://github.com/ProxySeer/PostgresLab/blob/main/Project-Architecture/Architecture.gif)
+![Project Architecture](https://github.com/ProxySeer/OracleLab/blob/main/Project-Architecture/Project-Architecture.gif)
 
 ## Starting Up the Servers
 
