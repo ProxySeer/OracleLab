@@ -27,7 +27,7 @@ All virtual machines have their own download links available in the `README.md` 
 
 ![Project Architecture](https://github.com/ProxySeer/OracleLab/blob/main/Project-Architecture/Project-Architecture.gif)
 
-## Audit (Captures all Queries and Login Informations) with ProxySeer
+## Audit (Captures all Queries and Login Informations) with ProxySeer (ElasticSearch FileBeat Kibana)
 
 [![Watch the video](https://i.hizliresim.com/qsm3qw7.PNG)](https://www.youtube.com/watch?v=oH-vh9WcT7Q)
 
