@@ -35,9 +35,13 @@ All virtual machines have their own download links available in the `README.md` 
 
 [![Watch the video](https://i.hizliresim.com/qsm3qw7.PNG)](https://www.youtube.com/watch?v=A-lmiHTO54I)
 
-## Oracle : Hands-on lab (Oracle Rac - Dataguard switchover)
+## Oracle : Oracle Rac - Dataguard switchover
 
 [![Watch the video](https://i.hizliresim.com/bfz55no.PNG)](https://www.youtube.com/watch?v=6s2PvWRNal0&t=1s)
+
+## Oracle : GoldenGate Oracle - PostgreSql
+
+[![Watch the video](https://i.hizliresim.com/t10havl.PNG)](https://www.youtube.com/watch?v=Du-xZea8vPc)
 
 # Author
 
