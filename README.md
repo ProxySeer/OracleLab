@@ -31,11 +31,11 @@ All virtual machines have their own download links available in the `README.md` 
 
 [![Watch the video](https://i.hizliresim.com/qsm3qw7.PNG)](https://www.youtube.com/watch?v=oH-vh9WcT7Q)
 
-## Oracle : Hands-on lab (Oracle Rac - Dataguard switchover)
+## Oracle Foreign Data Wrapper Oracle - PostgreSql 
 
 [![Watch the video](https://i.hizliresim.com/qsm3qw7.PNG)](https://www.youtube.com/watch?v=A-lmiHTO54I)
 
-## Oracle Foreign Data Wrapper Oracle - PostgreSql 
+## Oracle : Hands-on lab (Oracle Rac - Dataguard switchover)
 
 [![Watch the video](https://i.hizliresim.com/bfz55no.PNG)](https://www.youtube.com/watch?v=6s2PvWRNal0&t=1s)
 
